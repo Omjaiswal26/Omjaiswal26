@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!<br>This is me:<br>- CSE UG @ BVCOE'25<br>- 3 years Hands-On Experience in Django and Python <br>- Expert in Full Stack, DevOps and Machine Learning.<br>- 2 internships and 20+ projects <br>- 4 successful Django Freelance Contracts <br>- Provisional Patent for Deep Learning Implementation in Metro Trains.
+Hey!<br>This is me:<br>- CSE UG @ BVCOE'25<br>- 3 years Hands-On Experience in Django and Python <br>- Expert in Full Stack, DevOps and Machine Learning<br>- 2 internships and 20+ projects <br>- 4 successful Django Freelance Contracts in 2 months <br>- Provisional Patent for Deep Learning Implementation in Metro Trains
 
 Resume: https://drive.google.com/file/d/1Qen7N7dd5kkPFyj6UEP8iymrXPS3_wfI/view?usp=drive_link
 
