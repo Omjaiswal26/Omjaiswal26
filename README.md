@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!<br>This is me:<br>- CSE UG @ BVCOE'25<br>- Aspiring software engineer<br>- Experienced in Full Stack, DevOps and Machine Learning.<br>- 2 internships <br>- 20+ projects <br>- 2 Django Freelance Clients  <br>- 2 Research Papers on way<br>- 1 Provisional Patent
+Hey!<br>This is me:<br>- CSE UG @ BVCOE'25<br>- 3 years Hands-On Experience in Django and Python <br>- Expert in Full Stack, DevOps and Machine Learning.<br>- 2 internships and 20+ projects <br>- 4 successful Django Freelance Contracts <br>- Provisional Patent for Deep Learning Implementation in Metro Trains.
 
 
 ## 🌐 Socials:
