@@ -42,7 +42,10 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Omjaiswal26&icon=0&color=0)](https://visitcount.itsvg.in)
