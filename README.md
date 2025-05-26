@@ -7,7 +7,7 @@
 
 ---
 
-- 🤖 Currently building on scalable **conversational AI** systems powered by LLMs
+- 🤖 Currently building scalable **conversational AI** systems powered by LLMs
 - 🧠 Expert in **Django REST Framework**, **backend architecture**, and **system design**
 - ⚙️ Proficient with **Redis**, **Celery**, and **asynchronous task processing**
 - 🚀 Deployments handled via **AWS EC2**, **RDS**, **CloudWatch**, and **Docker**
